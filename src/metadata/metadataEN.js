@@ -57,7 +57,7 @@ I'm also working as technical lead in some projects
   additionalExp: 'Additional Experience',
   experience: [
     {
-      contents: `Some custom management software for small businesses`
+      contents: `Custom management software development for small businesses`
     }
   ],
   skillHobbies: 'Skills & Hobbies',

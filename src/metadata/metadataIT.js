@@ -57,7 +57,7 @@ Lavoro anche come responsabile tecnico in alcuni progetti
   additionalExp: 'Esperienze Aggiuntive',
   experience: [
     {
-      contents: `Alcuni software di gestione personalizzati per piccole imprese`
+      contents: `Sviluppo software gestionali personalizzati per piccole imprese`
     }
   ],
   skillHobbies: 'Competenze & Passioni',
